@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlPhoto</string>
+    <string name="msg_no_camera_easy_photos">无法启动相机！</string>
+    <string name="camera_temp_file_error_easy_photos">图片错误</string>
+</resources>
